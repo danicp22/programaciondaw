@@ -1,0 +1,39 @@
+<script>
+    /* PROGRAMA GESTION DE RAM
+    v.01 por ANDRES JULIAN RAMIREZ GUERRERO
+    Este Programa escala tu RAM y/o recursos informaticos
+
+    */
+
+   //No hay librerias para importar
+
+   var ram = 8;
+
+   //declaracion de clases y funciones
+
+   function escalarRescursos(op, o1, o2){
+    if (op == "aumentar"){
+        return o1*1 + o2*1;
+    }else if ( op == "redurcir"){
+        return o1 - o2;
+    }else if ( op == "escalar"){
+        return o1 * o2;
+    }else if ( op == "optimizar"){
+        return o1 / o2;
+    }
+ }
+
+ //Funcion Principal
+   
+   //Introduccion de datos
+   var operacion = prompt("Introduce la operacion que quieras realizar: (Aumentar, Reducir, Escalar, Optimizar)")
+   var parametro = prompt("Introduce el factor a a aplicar ");
+
+   //Realizacion de calculos
+   var resultado = escalarRescursos( operacion,ram, parametro)
+
+   //ofrecer resultados
+
+   document.write(resultado);
+
+</script>

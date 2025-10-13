@@ -1,0 +1,46 @@
+<script>
+    /* CRONISTA DE UNA LINEA TEMPORAL
+    v.01 Andres Julian Ramirez Guerrero
+    Este programa crea un cronista que clasifica el año en etapas historicas */
+    
+    //FUNCIONES
+
+    function anioaSiglo(){  //Funcion de año a siglo
+        var parto = anio_inicio/10
+        var techo= Math.ceil(parto)
+        return techo
+    }
+    
+    function clasificaPeriodo(anio_inicio,anio_fin){   //Funcion para clasificar el periodo
+        if (anio_inicio >= 0 && anio_fin <= 0){
+            document.write("Antes de nuestra era")
+        }else if (anio_inicio >= 0 && anio_fin <= 499){
+            document.write("Antiguedad tardia");
+        }else if (anio_inicio >= 500 && anio_fin <= 1499){
+            document.write("Edad media")
+        }else if (anio_inicio >= 1500 && anio_fin <=1789){
+            document.write("Edad Moderna")
+        }else if (anio_inicio >= 1790 && anio_fin <= 1945){
+            document.write("Edad Contemporanea (Siglos XIX XX)")
+        }else if (anio_fin >= 1946 && anio_inicio <= 2025){
+
+        }else{
+            document.write("No determinable.")
+        }
+    }
+
+    //defino variables
+    var anio_inicio = prompt("Introduzca el año de inicio");
+    var anio_fin = prompt("Introduzca el año final");
+    var cronista = prompt("Nombre del cronista actual");
+
+    //condiciones
+    if (anio_inicio>=anio_final){
+        document.write("Años no validos. Intenta de nuevo")
+    }
+
+    //Bucle for
+
+
+
+</script>

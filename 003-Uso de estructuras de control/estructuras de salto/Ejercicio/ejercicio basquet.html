@@ -1,0 +1,66 @@
+<script>
+    /* PROGRAMA EQUIPOS DE BASQUET
+    v.01 Andres Julian Ramirrez Guerrero
+    Este programa simula un partido de baloncesto entre dos equipos de basquet */
+
+    // No hay librerias para importar
+
+    //aqui deberian estar las funciones creadas
+
+    var marcadorinicial = 0
+    var marcadore1 = 0
+    var marcadore2 = 0
+    var marcador
+    var equipo1 = prompt("Introduce el nombre del equipo 1")
+    var equipo2 = prompt("Introduce el nombre del equipo 2")
+    var jugadas = Math.random() * 6 + 5; // entre 5 y 10 jugadas por cuarto+
+
+    document.write("Comienza el partido entre " ,equipo1, " y el ", equipo2,"<br>")
+    document.write("El marcador inicial es ", marcadorinicial,"<br>")
+
+    //Funcion
+
+    function anotar(equipo,puntos){
+        if(equipo == equipo1){
+            marcadore1 += puntos
+        }else{
+            marcadore2 += puntos
+        }
+    }
+
+    for (var cuarto = 1; cuarto <= 4; cuarto++) {
+    document.write("<br><br><br> Nos encontramos en el cuarto ", cuarto,"<br>");
+
+    for (var jugadas = 0;jugadas <20;jugadas++) {
+        let aleatorio = Math.random();
+        let puntos = Math.floor(Math.random() * 3 + 1); // 1, 2 o 3 puntos
+        let equipo = aleatorio < 0.5 ? equipo1 : equipo2;
+
+        anotar(equipo, puntos);
+        document.write("El equipo ", equipo, " anoto ", puntos, " puntos. ","<br>")
+    }
+}
+
+var marcadorfinal = document.write("<br><br><br>El partido quedo ",marcadore1,"-", marcadore2);
+
+//  Prorroga
+
+if (marcador(equipo1) === marcador(equipo2)) {
+    document.write(" Empate. Comienza la prórroga...");
+    let jugadas = Math.floor(Math.random() * 4) + 2; // entre 2 y 5 jugadas
+
+    for (let i = 0; i < jugadas; i++) {
+        let random = Math.random();
+        let puntos = Math.floor(Math.random() * 3) + 1;
+        let equipo = random < 0.5 ? equipoA : equipoB;
+
+        anotar(equipo, puntos);
+        console.log(`${equipo} anotó ${puntos} punto(s).`);
+    }
+
+    console.log(`Marcador tras prórroga: ${equipoA} ${marcador[equipoA]} - ${equipoB} ${marcador[equipoB]}`);
+}else document.write("Excelente partido por parte de",)
+
+
+</script>
+

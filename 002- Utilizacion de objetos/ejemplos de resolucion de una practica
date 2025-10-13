@@ -1,0 +1,13 @@
+/*PROGRAMA DE ARTE
+V.1 ANDRES RAMIREZ GUERRERO
+ESTE PROGRAMA GESTIONA INFORMACION DE UNA GALERIA DE ARTE*/
+
+importar libreriaarte
+
+variable pintura
+variable artista
+variable tecnica
+variable museo
+variable exposicion
+
+clase

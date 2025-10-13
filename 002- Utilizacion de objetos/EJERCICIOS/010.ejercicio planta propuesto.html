@@ -1,0 +1,33 @@
+<script>
+    /* Programa Calculadora de altura plantas
+    v.01 Andres Julian Ramirez Guerrero
+    Este programa clasifica las plantas segun su altura */
+    
+    //1.) instalar liberias pero no es necesario de momento
+
+    //2.) Declarar variables
+    var altura_planta
+    var etapa_cre
+
+    //3.)Aqui vendrian las funciones o clases
+
+    //4.)Metodo principal
+
+         //Introduzco Datos
+         altura_planta =prompt("Introduce la altura de tu planta")
+         //realizo calculos
+         if (altura_planta <= 10){
+            etapa_cre= "La planta es un brote";
+         }else if (altura_planta >=10 && altura_planta <30){
+            etapa_cre="La planta es un brote" 
+         }else if ( altura_planta >= 30 && altura_planta <100){
+            etapa_cre="La planta esta en su etapa adulta"
+         }else{etapa_cre = "La planta es un arbol grande"}
+    
+     //5.)ofezco resultados
+         document.write(etapa_cre)
+
+</script>
+
+
+
