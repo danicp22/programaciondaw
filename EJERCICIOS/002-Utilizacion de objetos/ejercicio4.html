@@ -1,0 +1,19 @@
+<script>
+/*Programa informacion pelea
+v0.1 Daniel Calve Pardo 2025
+Este programa muestra informacion sobre una pelea de MMA
+*/
+
+//Creamos la variable y le asginamos los valores
+var fechaPelea = new Date(2025,10,12,11,30); 
+
+//Creamos una variable para cada valor y le asignamos el valor añadido antes
+var dia = fechaPelea.getDate();
+var mes = fechaPelea.getMonth();
+var año = fechaPelea.getFullYear();
+var hora = fechaPelea.getHours();
+var minutos = fechaPelea.getMinutes();
+
+//Mostramos en consola
+console.log("La pelea comenzó el dia ",dia,"/",mes,"/",año, " a las ",hora,":",minutos);
+</script>
