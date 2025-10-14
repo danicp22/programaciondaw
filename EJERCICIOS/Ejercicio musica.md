@@ -33,6 +33,6 @@ for(var nota= 1; nota <7;nota++){
 '''
 
 Podemos concluir que un bucle for nos permite automatizar y acortar tareas que nos pueden tomar mas tiempo, como crear una lista
-de todas las combinaciones las notas y octavas de un piano y asi por ejemplo usando un condicional distinguir o categorizar informacion.
+de todas las combinaciones las notas y octavas de un piano y asi por ejemplo usando un condicional distinguir o categorizar informacion
 
 
