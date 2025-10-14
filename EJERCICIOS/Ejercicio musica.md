@@ -17,7 +17,7 @@ la nota y la octava:
 '''
 <script>
     /*PROGRAMA NOTAS MUSICALES
-    v.01 Andres Julian Ramirez
+    v.01 Daniel Calve Pardo
     Este programa muestra combinaciones posibles de octavas y notas*/
 
 
