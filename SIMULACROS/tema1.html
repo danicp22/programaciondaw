@@ -1,0 +1,51 @@
+<script>
+
+/*
+========================================================
+Programa: Ficha técnica y presupuesto de dispositivo
+Autor/a: Daniel Calve Pardo
+Versión: 0.1
+Año: 2025
+Finalidad:
+Solicitar datos de un dispositivo, calcular IVA y total,
+convertir almacenamiento y peso, y mostrar booleanos
+para evaluar si excede presupuesto.
+========================================================
+*/
+
+var IVA = 0.21;
+
+// Entradas
+var nombre = prompt("Nombre del dispositivo:");
+var precio_base = parseFloat(prompt("Precio base (€):"));
+var almacenamiento_gb = parseFloat(prompt("Almacenamiento (GB):"));
+var peso_g = parseFloat(prompt("Peso (g):"));
+var pantalla_pulgadas = parseFloat(prompt("Tamaño de pantalla (pulgadas):"));
+var presupuesto_max = parseFloat(prompt("Presupuesto máximo (€):"));
+
+// Cálculos
+var total_iva = precio_base * IVA; // cálculo del IVA
+var precio_total = precio_base + total_iva;
+var almacenamiento_mb = almacenamiento_gb * 1024;
+var peso_kg = peso_g / 1000;
+
+// Comparaciones y booleanos
+var excede_presupuesto = precio_total > presupuesto_max;
+var pantalla_grande = pantalla_pulgadas >= 6;
+var peso_ligero = peso_kg < 1;
+var ideal = pantalla_grande && !excede_presupuesto;
+
+// Salida en documento
+document.write("=== FICHA TÉCNICA DEL DISPOSITIVO ===<br>");
+document.write("Nombre: " + nombre + "<br>");
+document.write("Precio base: " + precio_base + " €<br>");
+document.write("IVA (21%): " + total_iva + " €<br>");
+document.write("Precio total: " + precio_total + " €<br>");
+document.write("Almacenamiento: " + almacenamiento_gb + " GB = " + almacenamiento_mb + " MB<br>");
+document.write("Peso: " + peso_g + " g = " + peso_kg + " kg<br>");
+document.write("Pantalla: " + pantalla_pulgadas + " pulgadas<br>");
+document.write("Excede presupuesto: " + excede_presupuesto + "<br>");
+document.write("Ideal (pantalla grande y no excede): " + ideal + "<br>");
+
+
+</script>
