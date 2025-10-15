@@ -12,4 +12,4 @@ A lo largo de este recorrido por el mundo de la gestión de bases de datos, hemo
 
 Este proceso no es solo técnico; también implica habilidades de planificación y organización. Es necesario tener en cuenta el rendimiento de la base de datos, la seguridad de los datos y la facilidad con la que se pueden realizar operaciones de recuperación y actualización.
 
-En conclusión, la gestión de bases de datos es un campo complejo pero fundamental para cualquier sistema informático moderno. Desde su creación hasta su eliminación, cada paso requiere una comprensión profunda y habilidades técnicas avanzadas. A través del estudio y práctica constante, podemos mejorar nuestra capacidad para manejar eficazmente los datos en nuestro mundo digital.
+En conclusión, la gestión de bases de datos es un campo complejo pero fundamental para cualquier sistema informático moderno. Desde su creación hasta su eliminación, cada paso requiere una comprensión profunda y habilidades técnicas avanzadas. A través del estudio y práctica constante, podemos mejorar nuestra capacidad para manejar eficazmente los datos en nuestro mundo digital
