@@ -1,0 +1,756 @@
+C:\Users\DanielCalvéPardo\Documents\GitHub\mapa.txt
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\COMMIT_EDITMSG
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\config
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\description
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\FETCH_HEAD
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\HEAD
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\index
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\hooks\applypatch-msg.sample
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\hooks\commit-msg.sample
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\hooks\fsmonitor-watchman.sample
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\hooks\post-update.sample
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\hooks\pre-applypatch.sample
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\hooks\pre-commit.sample
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\hooks\pre-merge-commit.sample
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\hooks\pre-push.sample
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\hooks\pre-rebase.sample
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\hooks\pre-receive.sample
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\hooks\prepare-commit-msg.sample
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\hooks\push-to-checkout.sample
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\hooks\sendemail-validate.sample
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\hooks\update.sample
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\info\exclude
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\logs\HEAD
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\logs\refs\heads\main
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\logs\refs\remotes\origin\HEAD
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\logs\refs\remotes\origin\main
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\01\28a07535a1778e0f781610807e742b90880cb6
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\02\cd7c932677175568fe1a4110a24d205c4239d0
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\02\f4fdba10fc68ce7805137045b4b141d127ab96
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\05\d8d3ed65aad64045f64a9795a893b1abf0cd39
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\06\5bf695638b5abde845219ddad577c2e61a9e7d
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\08\8ff21687005dbff4a35ab3eff2fbb2634580da
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\09\328ea09fc1003c627d377c2d1c889d5b11f2fc
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\0b\c8fefa2938040c5b1b751da0363321f1b981df
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\0e\bc5efb56638c2fc51ffad3b14e60e6456459c8
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\10\0b492ecc495b9a6a725e9814a1ba897b96da6d
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\15\b7d1a5a14a482090c3b39e25dad43436c9b335
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\18\dee5d2441a05f8319cedbc23f73ee4151dfc4d
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\1b\e035efe82375d8ba03ec95ec6d9e1bb0bfcad0
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\21\20370a47bc50df7d9649c6c7a39d227552718e
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\21\92f1cbd411e8f2faa695d7c2f4e85c65114f2a
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\27\f880e1305200ce1a2abcc0ee7e64ce527cd975
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\2a\648fda47e635c457d43ca8c6948063c331b215
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\2b\533ef226e9241e3cab74b93a0e551d8719f711
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\2f\4f3d6db3f8ca778a8a36af9095a06d9d2e9421
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\33\4963f12bc2ccfb1be77b79891f33b5136d119b
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\35\feeb268f4534f70ea904c2df495cdb5d66f901
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\39\e7f7f811a39e79f00c5d5d940653efde968749
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\3a\1c2eacc82f52ae448317fd3239eacb7c8a371b
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\3b\97e64c787e2a6ddd16b0134dd4c289c9737de9
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\3c\d4606b011f108ffbb427a4b4b0b41fc3d3de01
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\44\bf48a6108f4fd83b4b4e6935a39af8892717af
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\45\74f3d62d179571c49b9e3813a9055e717cd1d8
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\47\9542f2b2f45040047449d4ed52a3841b0d0e24
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\4b\825dc642cb6eb9a060e54bf8d69288fbee4904
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\4e\3ae2e722e59ed74fe46a267323f3fd66d3b853
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\4e\9ac88a9cacc6ad84f914f7cf309f3fb1155160
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\50\402a4b5fae17a1ef8c5f009dad9564f73612d3
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\50\ab1d783664db6c4a7b9567d080aed7291d0abe
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\54\d9eca4f6265465399dc030d8b1287d588c0ef3
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\55\e65ca2b6949c8d928f46e74b66fa08ee0492e1
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\56\7403c66a5250c815e15a790675be3931b29f8a
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\59\6d8e4435c8d2b798101a82fcd86a087324babf
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\63\1c24d49636d7b9d290b10ff93e1969adee7eb8
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\63\dae6544008c0878c0cd0378b484c7f7319a3cc
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\6b\79328b28a1813c4cf995d0f9df80f82ac59d31
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\6d\1b174acb9c980bf284e69214fc041a4dee176f
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\6d\991380edd4082f3ae854024465aef768334179
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\70\49df33f4f922c57090a520fa8c15cf597e3ce1
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\74\16eb0cf2d6ee2160122d4bfa2afb3403b65179
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\75\ddbd3e6db6a40809c9fadfaebf4d8531ba1703
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\76\b569ec5512aaeae40e61eeb0aed985257fc0a2
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\76\f0004e9a5152571680f90d9e046aab9b94bc0a
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\78\626ba6d9f96acca8a761a98f48ab6bd42f2510
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\7c\17fb46dcde5e27ef08fb13ebc97c9e6a57fd7e
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\80\9a698cb1aaee0a20e0c61794537e4041d0de4a
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\85\7ec1e3110e2f22b76d2f61278309db692726e2
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\85\a2ccddbf725ac1f68c3951ce2e97a91eba6351
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\8c\ff7b5eaa79dd918770a401abeb3f37fef78226
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\8d\f223946753eb780ce92f2dc3275df92b36e698
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\92\ac463047456aeb0d4d0cc689b953d0d157d7c1
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\97\102d75f0f1acdeefef00c9252807b17672cd3b
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\99\9e86ceb8719146b8d91b1545a3dc60d5f89532
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\9b\4f551e4b7fd49994851469e0c65ecac265b237
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\9d\c037c4a6e5f91ca28ca9b7bca68dc876bced53
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\a1\7b42510ee1d7dd665cd1961c03b781b4dd3725
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\aa\6cc7016a8fa178d0091ea89c9718b5ea786525
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\ac\e7e744ed3d759e32b28149f20d6bdc18dc07b3
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\ae\fdc2f39debd63e9270308b566874fe9ed9b8d2
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\b4\4674c74ae531a53afe7ac18e0905397a9aafd3
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\b4\9239423e37c552da583bc92120d2fced0a4aac
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\b5\ec9389eb952780eac584b5f97115129dc2f121
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\b7\eb1ff17e058f43a075ba1bffa1f41970a5dced
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\b8\70c8f406877763158bd7794885b7dbb4487883
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\b9\27c26f600c7930e3edb2c20ecbe83bdfbc8401
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\ba\8b0c91395c95176a85fda032ba73b62141d367
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\ba\a2392fa6cb3da11ea5ea8dc4e8ee23701b5bdb
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\bd\e5be28dd1514f9552de3022a6044801bdea596
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\c0\11b4363bf833463df5c2f1b6ab17be7a1965d9
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\c2\f66d2c6a483726818560e468e1062425694f76
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\c3\45a6642a7097fb1feb2c01863259c7b80528f7
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\c4\b43ed99421ec2226282d7197c9a24ea27eff18
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\c7\2bb7b5b7f29180d2a423c79ac09d23abe7bf8c
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\ca\96db57bb2e91f7e9409170fed4c787c331ea1f
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\cb\1f5e6a96860882ca58650f4c8ad8d12408b30a
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\cc\893410a73b77c6311f9d309d211afe7d6c4fec
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\cd\7abb804804bb4316ea96e64c9562940dc89772
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\cd\d6af3cc967bd10d15e951dd0cbc8b212c49115
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\ce\6f87dd5c6e49b5d2b3706cef9c32695408a821
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\d2\d985e7a9fc73ae63b71bf5aa38ce0e2588eff6
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\d2\e774498581a35beefaf681c20b91f869c65739
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\d3\73e4aab8fffeed89767c0b95bca624dadeebd0
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\de\2110c80ede5c4042f7eea19393b98af7dd512d
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\e5\55bfb984963f47ccac9fd8400a91d564e27920
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\e6\781abffd9eafe91639dff68f5ec2d7d1035252
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\e6\9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\eb\37fa1cd4ccc398205a402dbed390a098609904
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\ee\b74d4fb999d934778b3442decd52f3f64db027
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\ef\e18521ca6265172901794bdf786da4d0405764
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\f2\8726f3eca54b832e097943acc3b77c5d15bb3b
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\f2\98a3ef6817f1c3cce37b9945f8dcb651a74cde
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\f6\544c59b58824218fb2449e1ce36a41fef8b86b
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\objects\f8\ce2abf3628fe9363f263cb9d42226400ed555b
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\refs\heads\main
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\refs\remotes\origin\HEAD
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\.git\refs\remotes\origin\main
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\002-Utilización de lenguajes de marcas en entornos web\002-Estructura de un documento HTML\001-Contenidos básicos\001-Introduccion.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\002-Utilización de lenguajes de marcas en entornos web\002-Estructura de un documento HTML\001-Contenidos básicos\Contenidos básicos.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\002-Utilización de lenguajes de marcas en entornos web\002-Estructura de un documento HTML\101-Ejercicios\001-doctype.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\002-Utilización de lenguajes de marcas en entornos web\002-Estructura de un documento HTML\101-Ejercicios\002-etiqueta html.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\002-Utilización de lenguajes de marcas en entornos web\002-Estructura de un documento HTML\101-Ejercicios\003-lenguage.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\002-Utilización de lenguajes de marcas en entornos web\002-Estructura de un documento HTML\101-Ejercicios\004-cabeza y cuerpo.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\002-Utilización de lenguajes de marcas en entornos web\002-Estructura de un documento HTML\101-Ejercicios\006.meta chase.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\002-Utilización de lenguajes de marcas en entornos web\002-Estructura de un documento HTML\101-Ejercicios\007-ejercicio.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\002-Utilización de lenguajes de marcas en entornos web\002-Estructura de un documento HTML\101-Ejercicios\007-ejercicio.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\002-Utilización de lenguajes de marcas en entornos web\004-Herramientas de diseño web\001-Contenidos básicos\Contenidos básicos.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\002-Utilización de lenguajes de marcas en entornos web\005-Hojas de estilo (CSS)\001-empezamos estilo.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\003-Manipulación de documentos Web\000-Resumen.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\003-Manipulación de documentos Web\001-Resumen.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\003-Manipulación de documentos Web\Criterios de evaluacion.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\003-Manipulación de documentos Web\002-Selección y acceso a elementos\001-Contenidos básicos\Contenidos básicos.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\003-Manipulación de documentos Web\002-Selección y acceso a elementos\201-Criterios de evaluación\Criterios de evaluación.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\003-Manipulación de documentos Web\003-Creación y modificación de elementos\001-Contenidos básicos\Contenidos básicos.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\003-Manipulación de documentos Web\003-Creación y modificación de elementos\201-Criterios de evaluación\Criterios de evaluación.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\003-Manipulación de documentos Web\004-Eliminación de elementos\001-Contenidos básicos\Contenidos básicos.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\003-Manipulación de documentos Web\004-Eliminación de elementos\201-Criterios de evaluación\Criterios de evaluación.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\003-Manipulación de documentos Web\005-Manipulación de estilos\001-Contenidos básicos\Contenidos básicos.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\003-Manipulación de documentos Web\005-Manipulación de estilos\201-Criterios de evaluación\Criterios de evaluación.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\004-Definición de esquemas y vocabularios en lenguajes de marcas\000-Resumen.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\004-Definición de esquemas y vocabularios en lenguajes de marcas\001-Resumen.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\004-Definición de esquemas y vocabularios en lenguajes de marcas\Criterios de evaluacion.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\005-Conversión y adaptación de documentos para el intercambio de información\000-Resumen.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\005-Conversión y adaptación de documentos para el intercambio de información\001-Resumen.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\005-Conversión y adaptación de documentos para el intercambio de información\Criterios de evaluacion.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\006-Almacenamiento de información\000-Resumen.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\006-Almacenamiento de información\001-Resumen.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\006-Almacenamiento de información\Criterios de evaluacion.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\006-Almacenamiento de información\002-Lenguajes de consulta y manipulación en documentos\001-Contenidos básicos\Contenidos básicos.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\006-Almacenamiento de información\003-Consulta y manipulación de información\001-Contenidos básicos\Contenidos básicos.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\006-Almacenamiento de información\003-Consulta y manipulación de información\201-Criterios de evaluación\Criterios de evaluación.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\007-Sistemas de gestión empresarial\000-Resumen.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\007-Sistemas de gestión empresarial\001-Resumen.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\007-Sistemas de gestión empresarial\Criterios de evaluacion.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\007-Sistemas de gestión empresarial\002-Instalación\001-Contenidos básicos\Contenidos básicos.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\007-Sistemas de gestión empresarial\002-Instalación\201-Criterios de evaluación\Criterios de evaluación.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\007-Sistemas de gestión empresarial\003-Administración y configuración\001-Contenidos básicos\Contenidos básicos.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\007-Sistemas de gestión empresarial\003-Administración y configuración\201-Criterios de evaluación\Criterios de evaluación.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\007-Sistemas de gestión empresarial\004-Integración de módulos\001-Contenidos básicos\Contenidos básicos.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\007-Sistemas de gestión empresarial\004-Integración de módulos\201-Criterios de evaluación\Criterios de evaluación.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\007-Sistemas de gestión empresarial\006-Elaboración de informes\001-Contenidos básicos\Contenidos básicos.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\007-Sistemas de gestión empresarial\006-Elaboración de informes\201-Criterios de evaluación\Criterios de evaluación.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\007-Sistemas de gestión empresarial\007-Exportación de información\001-Contenidos básicos\Contenidos básicos.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\007-Sistemas de gestión empresarial\007-Exportación de información\201-Criterios de evaluación\Criterios de evaluación.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\007-Sistemas de gestión empresarial\008-Elaboración de documentación\001-Contenidos básicos\Contenidos básicos.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\lenguajedemarcasdaw\007-Sistemas de gestión empresarial\008-Elaboración de documentación\201-Criterios de evaluación\Criterios de evaluación.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\blog.json
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\blog.txt
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\COMMIT_EDITMSG
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\config
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\description
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\FETCH_HEAD
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\HEAD
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\index
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\ORIG_HEAD
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\hooks\applypatch-msg.sample
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\hooks\commit-msg.sample
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\hooks\fsmonitor-watchman.sample
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\hooks\post-update.sample
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\hooks\pre-applypatch.sample
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\hooks\pre-commit.sample
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\hooks\pre-merge-commit.sample
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\hooks\pre-push.sample
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\hooks\pre-rebase.sample
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\hooks\pre-receive.sample
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\hooks\prepare-commit-msg.sample
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\hooks\push-to-checkout.sample
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\hooks\sendemail-validate.sample
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\hooks\update.sample
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\info\exclude
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\logs\HEAD
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\logs\refs\heads\main
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\logs\refs\remotes\origin\HEAD
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\logs\refs\remotes\origin\main
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\00\cff76d50e3d60d9255df9eed46a145fc9727db
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\01\48747c36b893fe534ca4b77869c6061adb42d3
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\01\50dbb5a739615ece49fc17e38a02fa6d19207a
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\01\ab91d9431c26600a11fc884491cd5e8261b974
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\02\3b5d66b0162d8b2947989553ee4a21f5b80013
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\02\dae77c278207987bb76d52447387ea15f09477
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\03\cc91db89583a7ac91d868493f8a5de6bc6180c
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\03\fd46212a1caea8173abc16cbca59b5c4efc7d3
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\04\2adb8e49490d2ee0ed622a92a469833804d9d0
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\05\1f923cdae376ab5dbd5d09e587a0c0f7ab5af0
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\05\9d499d6a854e9b57d5e78267e091cd6e39fd28
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\06\369fbf9793738cc40daefa4bf0f675d7510bbb
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\06\c14926f200046123f1e4705bac90dc42740ad0
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\08\d5d17f31dfcb53470b0eb7abde53c050af328f
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\08\ed63d62e778cd7d89c4599572a83aef151fe14
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\0a\50a3e2744659463bb698c5a39e09878c442af6
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\0a\9d3894203762232af09c52deadc6b2704732b1
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\0b\7e03c9fe0f9f6be3bf1bf6afceec68bee402a3
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\0c\e00499eac14eabc83772beb242369b13d9f497
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\0d\310585bb75decd5a6180ac4fccf7b696beebfb
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\0d\6a750ad086198aae7432450ee752b8774264b7
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\0d\e0274d9f080950a04acc8e74220a112d8ad611
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\0e\81cfba857414b5365b8420a1082bb7dee9b453
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\0f\520a3ca8e8d6efde00ac35aa6017abb3996dc4
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\0f\ee91aa704d58b30c097265893a8caab38146e4
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\11\e10ca22927a7f22f58d788324c1312badc831d
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\12\6b8a19dcd6f1c08f7a3d535585a3d9ed54884a
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\12\9605d383ab1f17525e3602c2f9c73f1e5e3ace
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\13\1cbb9e2e4112a694c26dfe76d747b870293540
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\13\cef76dd95f354eec7a0b5e3bc25456c8110ef4
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\14\a4bf050fc683f8625e9e872ecfda1e6e3519e0
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\14\dde8b6c2294b48d12db33d0b37d9ee8ed61c71
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\14\e99356add5e86618a647d34995ca0f583d22d6
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\15\43f3c3fcd7d093586183c1644e465f13580df4
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\15\c7e3ecb73644c0f0376c66dc22405801a1e8fb
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\15\d02cc4ebcdac0721e093c677d6c6a640771ea5
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\15\d46573a926aa335f8d1def259864f085dbd87f
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\17\251d72c0d4bf866e8cb12c28e062dd72019e0e
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\17\85496a3eb6e0e7ec8838886933edea83fed641
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\17\d101bfb07d0ef06e1d0f1d9cc1be0da02e59de
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\18\81784bdf12b012edcfb7e216770aab9d56a18b
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\18\f37b883140ac0b86ed869775e58466f2717652
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\1c\a3db0239029a531f7b27f394fced16d25fe3d1
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\1c\e9f1acf5264d23b17e325f941679970289bb84
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\1d\2c8a0315fa725428016e8bf5366e2f4daefc0d
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\1d\77da75b8a33601a6f57224b503f86cb605a2de
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\1e\96e68c0884b1bab4c4cd8af193a669ee90daf1
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\1e\cdb134c6f003e326702cbc75454b9b4943421c
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\1f\47ec295d246ce70768d40562f9dff1d4565a94
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\20\483cb85fc3df48acc84f6ea62ed71b155eaba4
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\21\3a3d25351f30a9b71919c04eeb0e679c8035dd
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\21\55fe0e2269d3ab8498b3e683e8ac42a031d1eb
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\21\ce07806b474a06ec63288cda7daa43cc04fe35
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\21\cf293cfcaeff3a6a545a4e3434ec1ba24bbbbc
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\22\00e2667c27dccbb0ac018dedcaad1d5a51675d
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\23\3acbd1d5f5c332c1776cd5f44aa64a3c95fba3
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\24\02427649caa29e02497a6368cf43071466740c
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\24\547e03ee8383ced7fd1e957e756789ec48397a
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\24\f7ad5c08035a77dc1dcd34bad1a5efac109b4a
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\25\a003fbdb60ab25cc88ee1174a28eebce0d1974
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\25\c2529cbe9b6f4a8df1bdddbeee0f66e83d9b60
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\25\eab659c46e3c82de4d6aaeea7655e7a036e3fb
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\26\cca1e0e9060dbd8d40fddaaabb6e23c6672dc6
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\27\5f1d997b9540ce1e83727941cf92a014930583
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\2a\2e9defda33650354a3f850f5e5d394907e996b
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\2c\9fc04b05b8a94ec45728cbe1b75657ae92346f
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\2e\50fbf87982443745a3c466c398ec1c8d4c196e
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\30\25e30dea9fe5aea6ebf65ec384fa53a2a8d32d
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\30\c3c2788a722a469829f03821c697ff3dfd17e9
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\31\249ac0d424bafb8fb61edd74637eec88f90b82
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\33\4a3749a21b0b275065b5c294694aa350dfaddc
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\37\1ad83a1db8a48b517987643de4eab91e0d9224
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\38\02d55f95b9dd391317b882ba293cc3a5b1c608
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\38\3c40e6d68922508e3f1fa32bca6dbd1823c878
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\38\66f3c163ad0dcf5bda280cd19b9372969267f7
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\3a\bfc8d24052d56eeca0f4f62ffb1ac124c6c4ad
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\3a\d22cc6d1d791ee897e47fbbcb2c0878567b4f9
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\3b\036dfbc4d880711d7df56c8d135262c6627daa
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\3b\a4b9941bf04782455c228806635ff80c34f338
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\3b\c72cc8c9cfad99f0b2c0d919b2ee61523f0947
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\3c\1c39e49de27b86736f405c6957ee3dd9cfdd5e
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\3c\ea5b84a2adeb13b77600766e763007e626a41b
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\3d\f9bff4f73fbd0e8142b09b3c29aa510da2c9cc
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\3d\ff18624ae9e2aab4b73e29f7386b5981efedd0
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\40\077b2a7a16b1b6b9042d5d161f4408e855b3e9
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\41\0da9163ea14898d9952bb9e17a115e4db0df93
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\41\fa6282db7eebc94bfc9c5ecb72b2a3cd7a0c4e
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\42\0451e40bcde3b8368e06b5d17a1beb0683acb1
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\42\912ccde4361c76cead9a503e30bb9636a18a3e
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\43\0fa613349e077d4fc5e92a657b832b12eea5a4
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\43\6cfa85b55cbcbfaa9a21bdf428ab54f881cc6c
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\43\96b8aae598f50bd32c8965cff3ed08791b1b2b
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\45\64842856c63058029a4dcf99a465bc1acb83f3
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\47\32905f6005bd719f23fc4123d8c6e126925327
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\48\056bf18baeafbbbce965c0549003e9482ceb85
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\48\4e6dae47121b946079644264fe6b06f2c29470
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\48\76250137b27a9bc54faaf7cb9d1be466d3a053
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\48\ea3f1f07167156afb7bb5af41bcbae68701554
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\48\fe69e3b4d5de99445f4ba1c9cf1a511a234da2
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\49\6bf1133a1df58b416e46eea5a722b63d44bfaa
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\4a\12fd1124b39b52c6de5d7fa7eaeef68723067d
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\4a\96136901385cecd8d8a216f1c78f1073d52a07
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\4a\ae66c89f62b3c1a26efabe4838fb16dfb1ec2f
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\4a\f26799be5b1fcfb0c4889a7151778398f62812
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\4b\b9582462dfc8f48e139f3e0154d0307ae22b70
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\4c\1b3a90dc9a50cd7d4fa296442459b668c27d8f
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\4d\65bcacaeaeafdd259dca6c1925c9c2a5f4fa58
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\4d\7f237c9f731988bfed94141b9ecd02bcb443f2
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\4e\c183cdb404d9d6adb63dba0a32f003c858a8bd
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\4f\42b5574423a5e4f4ee90d3be1b8b01bd58320b
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\50\c5f15dd5b7071c23b884877615c2f23a2b4210
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\52\58d26142c06d040e57f5c4c9f3b87e3ed902c0
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\52\8ebfdc9d19a88b38d6db1909f140e886bee516
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\54\2866e55ea6e206df17e18b1e66200869e19a8f
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\54\99020fbe40a117da9d05959c0fd13a88ddf0e7
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\54\a4d05d0e13a1f68ed4cae7ebb6567ebe73eead
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\55\81e5b7124aebe5663a37dafa247ea5b7fff310
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\55\ba6f62f5b2e1474d4157ca9e1293ca05c7ef5f
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\55\d760010c5249850011e22e979b485f9bd69150
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\56\57237f217586911e5639f0ff1bfc6786ae33ea
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\56\ab03276ce7da21cbeeae2594d848847064be49
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\57\0321dd6c0b26b28c712f06ea533f6ceb031226
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\57\5c9ac437eb3c7a705b4f8437fb9b34eba464d6
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\57\d907d3b163711c6daf5aa4ae3488bd0faa8fc3
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\5a\93a8102f56477111245ffad74d2c689d81de0c
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\5a\ab564b2637d3dee347f3f0d406a64a9958bc4f
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\5c\2ef8a70d1e6d6a010e84fef13eac609744194a
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\5c\8915a9051f1c94d9767a8d12c3bf9f1f3a0c27
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\5c\b56d9ecd9b947b59444976e9b1cdb57e5f23ab
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\5e\6a9e3a4ec6a9fce50239927c13dfb5f3f149e8
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\5e\e8fd8eb325ca81683075d6d97f29e091366e85
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\5f\5673594388f6d0b57397c2bf098b672d863df2
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\60\465dedd8e97c5753c9a03982bebd931ad780da
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\61\7ff7d3e1d029041de149b4c0550cf25bd7fe05
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\62\e321012dc2186b31b4f6e15d5106499abf8cf9
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\63\991ba4c0b5de03d04edd5d8cb77608624c763f
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\64\d17a94ea1177d95e18cc7ccf95a84c8244eb27
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\65\ae2c00fe81d673b8eac8f9fbee28a234bd7fd7
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\65\c14fa15a377473e442d12eb3aabbb77bd06c82
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\66\4212ba14894242e9e9911f5f70a79a7b7033b8
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\66\82407eed7b71c7968cd09b5076c2deb95fc6ab
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\67\4ccf64e3c27a43ede1dfcd6a24814b207305fc
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\69\33b1fb99c07be8abbc3229decc52653143a691
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\69\7f52282cf7b52cb31216337e8bb055d443f466
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\69\88f32af605aa66056566fa10617fdf2898369a
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\6a\0531878bf41b82ad3f500834edb253694eddaa
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\6a\33d39df073a4da8b336df2286df412056c3211
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\6a\ec79381846239267952614fd097a0a96afdcbb
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\6a\f574a22b5551fa90c91d8858db77ef6c68cd53
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\6c\2690d8803ba634935ae929cc2d7b88f6536281
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\6c\380902d09a0fe10f8fec1bf4c0b9c79d486e5a
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\6d\66218d34db3cf37f6e2d46498144e160f5db79
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\6e\64d9858e0573772a8b036cb2d99a46dc390511
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\6e\6df564c84b4f0eef2f147117cafe164e695482
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\6e\7b04886f55c6b5c5e7318218682e4b20d1e44e
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\6f\41ff65e498ef8dd3535efdc28b1a7ee21428da
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\6f\87a448d895e4dfd6744e33597295e99d54981a
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\6f\d5c8cced556132b7122e0d4c57b8ab82821f6b
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\70\b60c9be33184c59742ebde759d916c308c7b96
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\72\5d2eb6f538494e99b1f15e32bc82e908371ade
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\72\c8bc998da5f70188fb0773fb74b80f890339a6
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\73\0db11edac01b886205c801530fff72deb5f013
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\73\3e2549b325a96dcde20b43ea413a5da4bdd993
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\73\bab0f70e4be3ddd07233f6e0fae28544ee846d
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\74\fa52b3974157b3870071f44e1438c823dbe744
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\75\ab4babb0554d12361e5c89935ad21d91c63e35
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\75\d2f6fcb0862f40b6b08f37fc11f4170b6d2aa8
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\77\1b8acf958313314bb2dff90d6f5df895878e0b
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\77\498ebae145774c2391468344fd774e1c6c8463
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\78\ad5e5a32d689e89000f8e33a373fec1c044f9a
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\7a\35f8d326923e8012cd6f289a6a21e205826184
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\7a\56a254329bef533e54bbf3e1b1245ba67f9704
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\7a\c4f293db2cc6795ca836001c712e5da9105f59
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\7a\dc444f05f7fcafc2bfe6834e3a46450730cda3
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\7d\e585ccf3159d4807af6186ebcf6d8615693e43
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\7e\e49fe0c83d13ff9ccc7e8900de04978e9fc3a5
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\7f\742d809cc157bf10a75096e394af3ac9776522
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\7f\d4305b72ceaf6d885895bc20c3c6f7a08c9c52
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\80\6c634ccf42be3ffe9275c66c117c28314e7b46
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\80\bd898678786b433dd07fae4dc3c408edf6bf48
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\82\7a5563d7cdb9447e8a36cacc6516abb1eb51b2
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\83\228ece7b81bea8836415e54c0c32dd6956df4d
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\83\82709b8f78b1c72012bfc4043add1d391a6b83
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\84\5ee88aab2a531159401db8f81c8b7585fae3c3
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\84\bfba8c1dcbdbcaf0ac410134fe2510ef779a2c
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\86\1f802a5752766e620ea029bde155622d2dd67f
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\86\75e4ab8922c51dcc7499a7dec31201f8994c27
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\86\e18b8b7975f3b475c6d67b6ac693bcf547d126
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\86\f8b1915ab9a6c5625760b1bd93ebb6fe19f3cd
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\86\fcd75b605568a2695a62af17ca85b74a8de078
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\88\a1411c6141c445193c5ef5c7ccc2e035d7630a
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\8a\0855a2552eade54398744bdc61ac394712b7a8
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\8a\61daa533a62b94ce06c1f9f3d5169ba6cc8707
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\8b\189ca8a2221a92d5dcab0bce6f3f2fd807e9c5
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\8b\8612cfe8d2cbd85f1228a873e7797fb656ff43
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\8b\fd7d8e2bdb2c0449866c22f0aa1e9cd7229bbc
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\8c\08fd3fd22988a528736002c665ff5487ee06bd
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\8f\eaee63b3e7d712f3da62814f8702eb607fc83f
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\90\3d1a15788278fbb2501733ba5a6e6d3aef6a54
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\90\798131aac1e38f179e0f1c2a932da3dbbc928c
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\90\ba1e5e165db84018dfca2f21430bcd7f1afcd3
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\91\32e7c3eb9402e4ac3b37cdb57b7139a2e35306
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\92\132c73bec6907ff1bc1c1ac1b6d98f0f6aa0b0
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\92\397fecf8398b1272a14318f5f386ccd776fe8c
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\93\118d7ba9352cfd7d453b488a1e4faf6cd54118
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\93\2236b2eb4e2d6b725dee7a8f39e5d22854dbd0
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\93\b4ccbf25bed23eb63f7a6be144c2f6ff444f7e
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\93\fa7efde07872b1f196d023283609368e352ac7
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\95\7c8e0bb4384303eeb8e161da68c9532901acb3
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\95\8f25d38ebb09de20a632b257288d2c6092e46f
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\95\c4b4cbd201950dc5a894616f8abec25f21ebba
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\95\e7f61bacb1ff6ad1d90046e4670281e3628117
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\97\a5640f59796fafa4a346745a176b171581ff0f
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\99\2c0b1fb2b68dbfff00641ce63bb0a8002acefe
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\99\dc65d5bd5148d95e29087cfd76b5706dd8399c
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\9b\8220561732e50574fd3a5df2df6a4b033bb998
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\9c\76778f6cdc19a87e79a63ff01e4d27ee185cee
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\9c\b408057b6a8c4db9b0c270bfc515e32597fc6a
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\9c\c87398b70705d363fb4b6611385705122b107c
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\9d\1e2569a9b800ad1b9dab0ad5226b90761c750f
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\9e\7ce37ee1ca837263f0f7955ddebc3d83543e78
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\9f\76b1c865e82701aeee9e3735246ee94e35a046
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\9f\f1d640169437b64e513137cadd6307a9444bd4
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\a0\68e752b5bc45b6199d53587f0c67c7fc12fa1b
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\a0\91920f36f44374e27b0bce746f06689d7330eb
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\a1\c781f499879fd9059a1c2a9a9830cd4668be8a
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\a1\cf19fc995e78abc69f063a6a57602563299f1b
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\a1\e37802c32c544e151c4888493a8335994a85ce
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\a2\8e2f3071afe518550888350754c9ccd067165c
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\a2\941cabf556a13731b080ce97957e586a6d2ab7
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\a2\aef965c0dc9c6b21de1de8c55cd81d9387ebc6
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\a2\fe959017436ff0bc880f2c2706b626a5369b96
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\a3\600082b83d419f2b60d27e4ce7173ae46823e3
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\a4\091ffd20c71ff82cd3d40e6faa1c8f9997622a
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\a8\1e026ecaa7f2f99343a5954c9c887eb4a35264
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\a8\2dcc6ca395c459aca43de2a77951e183de6d3b
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\a9\6e781138dcf45f7179dee61320cd9b77971ff4
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\a9\8b3209a2e9827e67d0cf1dcb075510d19b81a3
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\aa\cde5ec552046ab2d293c60209797763186a9b7
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\ab\88a486b7277d51f74cceb9821286e176ec1859
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\ab\9d6ec15d9172e5d258a8af4ce41ffe20b39175
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\ac\3a66689456a56b2e277d1497475eefff3e7dd2
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\ac\5868cdc4596bdfaa80374d804db985707bb262
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\ae\56f63bb20ab122a738f2cb9e8478ecf125d484
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\ae\8e68f0a919b33bd9d34531cb9952f5305eef30
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\af\6353671fdd6c538df68bc9cdef98e7fd8ddb38
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\af\ff7c174af8bebe4d73a91d0f0bb6b4c9fb5161
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\b1\cd95b317ab087c50a856034abd6e8887df8a49
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\b3\85c281ffa66230b897ffd56550285147e3ea02
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\b4\925a053e38cd29701ffc034f303a718e355fbd
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\b6\cd4f6dfe2c6320cfefa2c822da09cc571ccb84
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\b7\e4a1bbafad2401630fd71287b6a04babe61a3a
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\b8\25eca22423a2a446db7de01462a1b2c8943377
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\ba\89f99b969304ad2fe0bbab17b4edc1872b2429
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\bb\95a2d5d47d53e505807f725e089bdfac61df4c
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\bb\e0d281a2a57959b5f88df61524708e2660260a
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\bc\2f74101013f51f899d2aaab614e106b7fd93cf
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\bd\102bc15ab2ef8f48e55aef48f7a0a8c8bd94f5
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\bd\21ef4fa38e768b8f769853513d671ff5250d3d
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\be\8d54e198ae665d0b12d2b496b9e478e1d1c0be
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\c0\aadbc69680eb024d44bba079b1db7bdac6dc95
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\c0\c375eefd0d75df472de2bef2eaae08b1704b87
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\c1\0768b1596a7197e9952bfe44982c473ff0e7a8
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\c1\310508fb594ba59cbc5770ce9a0693f4eda851
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\c1\8ecb00fbaf250e3123acfe7c128d6c71c07b28
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\c1\99d64dc103c1adae90d69c8f4d7287ddcb5137
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\c2\e3ded94880906b5e0343a29ea3e4115eae799a
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\c6\f2f65f262a816d96a5cb9a43d49378007f5d29
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\c7\bd05fbb730a2eed69c2c8687f1bfb288c32057
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\c7\c53e1982b4e285e89582a7415d951aba15d93d
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\c9\e9e1db369bf05fb5fdc08f053bb44b044b7b4f
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\cc\a63f0d0e93c23cdb6c70b24b254f019fc033b5
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\cd\6afacd3fbfe2ad2d47b13facb690d581c8eca4
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\ce\87cf2c11b4384762eb806b4c1fe194cba933f9
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\d0\8964774b3ec62bd14bb650976e44557759c34c
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\d1\fb293177557efd4f184cc9e192d8d4a107f0b1
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\d2\72a8cedb74a6b3cbb6d36c5524cb239fad7525
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\d2\93fc8960a2996eca2e8ffd6af58677d4c18681
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\d3\0fb2b313ea46aa0e2593f5f8fa965467bebce9
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\d3\68e5df356899f4c2ecac0249ebc7e9da23cfef
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\d3\c497ef0ae8da278656cd258b22d716a68ee3e8
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\d3\f998c14de28ee71ef291d8fe70ca812113647a
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\d4\70be3c0703fe48065a4c64a3609de562540576
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\d5\9b365b16a526b3a09b18ff2132372b47536abc
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\d7\0e80d96487ed1a5dfdea91d630ebf7e90e5677
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\d7\18f1f14426c720fce206b20343f1fd579289fb
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\d7\9a888ae5fbe15eabfe52a78f67413b3f337373
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\d7\b864fc0be9d299068864f5d9cf8886814e4b1f
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\d9\c4fa4d53f024741a634dd3df867de30f1c4f03
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\d9\d2a00e060723683de9631f458aa9c43539176d
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\d9\f73b3f494ed11fc6442eef2e6c419cd9d37508
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\d9\ff619d4a0ccb22913d4a0e249fbef0ad6a632c
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\da\ba34022b6e783784ecddab82e5a0c849c57d04
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\da\d0077e9a4c18c78c03bde2ab8526a0b01f1d18
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\db\27bf3cb4d5a04f96bd10a49f90c441be79c5ff
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\db\d3d5a59e3ed8a42fe42e431726c46771534ffb
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\dc\19dac4fcb2f9cb8661abd0152184bd09ad2e05
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\dd\6b509014dec6ae1bd64b1426a584d223a35319
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\dd\bc88b4c7d0495908f705867e9bc03187ea8fb2
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\e0\21598178875f9915130b183d0b771c94ca20d1
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\e1\4e691e5e133f0a497535538207568ada8d7fb3
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\e5\2c2fb52d9ec31c626365edb694267b1d2b34e7
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\e5\cb423a2cd6cd702def1ac735e1e777287140fb
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\e6\8862b85ce720c5c95acb405e545df6609faee2
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\e6\9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\e7\494af9e150712a108111bd4ecf4c332e358ce0
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\ea\2377c10f7eec8580cbe1d03d9b64e8aec93165
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\ea\4c93b75a2902348586117cf018bba45b0b24f6
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\ec\16f8d9bb0069c371ffca882066e749caa00bd3
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\ec\e7c6e8e53d974c74bc09a3110ff2cc2ecfee53
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\ee\50a00c4ab69b352fc1c5d2c0e598125e0b1cb4
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\ee\b74d4fb999d934778b3442decd52f3f64db027
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\f0\73c1ff0b3950d9ae81fb706ce7fa5fc8f5e795
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\f1\853c964f4ddd40139bf13ea82e4a346d730eb2
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\f1\ce33d0d623ff30ba8857f6e9910d5972ac1336
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\f1\f32a3ce0929dae73f48a6beb6aa8ee59c91aba
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\f1\f360986ea61d0c169514f165ac0f844a82a154
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\f2\3064c6bb62f631a37418bc72c536ac9d817c21
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\f2\d44c4b75b45749ff626e07f52897504454e6c3
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\f3\3c9316590c2bd6b36da2a3c3f6f3b2fc9ca028
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\f3\67a8b85c0b84bfad019d24f978e882d400f54a
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\f3\a896428e481b487d6e5e89e1bc510d49ba3755
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\f4\4cc0d459f7eb02c7e02990f033ae55764b96fa
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\f4\85e713762abcbab2cf2c0207c33deba985bf0d
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\f4\9c1d9630f17ebadac4bdaa6189e7a61f80bea7
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\f5\0b6e8b642459b73d2294de1060a674f58bf647
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\f5\9a6e7b300d410fee35adf39d14fd91b04766bf
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\f6\504e16b86ca9f9d40b26f1cc42f1bbd436bc41
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\f6\69492f1571f01226036f6bfe227657e7ee493e
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\f6\8c019d9afaa22dc4fefd76860538cda025e986
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\f6\c4c11a40492d6f5ccd0849d7709b833069604e
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\f7\a8de547ddbff3f7757397e14658d6dd29c9894
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\f8\ac85c9b203696e14cf7fa8044f0049e2f33b48
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\f8\ca83f62e7b5815ed67258cdced033c03a5fd76
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\f9\4b21e9a22c00928fe3e232066b0d74ca28bc13
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\f9\8fb61b480104dc9a20c4ca86d743f0e3558c90
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\f9\927010355a7d7aea9bf6b05b9e015f15e0dd3c
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\fa\1f0f15658310877063d67c51bf4df6a22cbb57
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\fc\03aeedb54a8364ee7baa42cb14d206c680696b
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\fc\09d14f0b2c28b38f9f8c5ccae692d3caba49cf
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\fd\dbc62ec34b9baef55cee9492f8f16efe3f9f44
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\fe\2ea0eaf9b2e6a87460c5e801d73e8767039c62
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\fe\a6fb9a99a414e3bc955f61126179668e2f2036
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\fe\f074a7058778e3aaefa3110b208cb3a611f226
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\ff\ad3eba73312ddd3f9f6d1e40870306a4f7f23f
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\objects\ff\c0b1ff8dd1931f841e231fab1442f3e2257a81
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\refs\heads\main
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\refs\remotes\origin\HEAD
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\.git\refs\remotes\origin\main
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\001-Identificacion de los elementos de un programa\004-Actividad Literales.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\001-Identificacion de los elementos de un programa\01-variable.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\001-Identificacion de los elementos de un programa\010. tipos de datos.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\001-Identificacion de los elementos de un programa\011. literales.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\001-Identificacion de los elementos de un programa\012. comentarios.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\001-Identificacion de los elementos de un programa\013. constantes.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\001-Identificacion de los elementos de un programa\014. intento de cambio de constantes.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\001-Identificacion de los elementos de un programa\015. operadores atirmeticoss.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\001-Identificacion de los elementos de un programa\016. operadores de comparacion.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\001-Identificacion de los elementos de un programa\017. operadores de incremento.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\001-Identificacion de los elementos de un programa\018. incremento.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\001-Identificacion de los elementos de un programa\019. operadores aritmeticos abreviados.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\001-Identificacion de los elementos de un programa\02-salida por consola.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\001-Identificacion de los elementos de un programa\020. operadores booleanos.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\001-Identificacion de los elementos de un programa\021. practicas.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\001-Identificacion de los elementos de un programa\022. funciones o clases.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\001-Identificacion de los elementos de un programa\025. lanzo por pantalla.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\001-Identificacion de los elementos de un programa\026. ejercicio.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\001-Identificacion de los elementos de un programa\03-advertencia.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\001-Identificacion de los elementos de un programa\04-error.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\001-Identificacion de los elementos de un programa\05-tabla.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\001-Identificacion de los elementos de un programa\06-escribir en el documento.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\001-Identificacion de los elementos de un programa\07. variable.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\001-Identificacion de los elementos de un programa\08. reglas de identificadores.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\001-Identificacion de los elementos de un programa\09. variar la variable.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\001-Identificacion de los elementos de un programa\EJERCICIO-constantes.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\001-Identificacion de los elementos de un programa\ejercicio-constantes.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\001-Identificacion de los elementos de un programa\PYTHON\010.tipos de datos.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\001-Identificacion de los elementos de un programa\PYTHON\015.comentarios.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\001-Identificacion de los elementos de un programa\PYTHON\016-constantes.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\002- Utilizacion de objetos\1.0 Actividad Peliculas.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\002- Utilizacion de objetos\102. nueva instancia del objeto. nueva instancia del objeto.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\002- Utilizacion de objetos\103. metodos get.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\002- Utilizacion de objetos\104. propiedades de math.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\002- Utilizacion de objetos\ejemplos de resolucion de una practica
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\002- Utilizacion de objetos\constructores\001.constructores.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\002- Utilizacion de objetos\constructores\002.informacion en el constructor.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\002- Utilizacion de objetos\constructores\003.destruccion.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\002- Utilizacion de objetos\constructores\004.memorico.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\002- Utilizacion de objetos\EJERCICIOS\010.ejercicio planta propuesto.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\002- Utilizacion de objetos\EJERCICIOS\105. Ejercicio con DATE.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\002- Utilizacion de objetos\EJERCICIOS\106.Ejemplo de ejercicio.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\003-Uso de estructuras de control\002-Actividad Variables.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\003-Uso de estructuras de control\003-Actividad Tipos de datos.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\003-Uso de estructuras de control\Ejercicio cronologico.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\003-Uso de estructuras de control\estructuras de salto\conceptos basicos\001-funcion.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\003-Uso de estructuras de control\estructuras de salto\conceptos basicos\002-uso funcion.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\003-Uso de estructuras de control\estructuras de salto\conceptos basicos\003-uso funcion bien.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\003-Uso de estructuras de control\estructuras de salto\conceptos basicos\004.aumentamos la funcion.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\003-Uso de estructuras de control\estructuras de salto\conceptos basicos\005. break.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\003-Uso de estructuras de control\estructuras de salto\conceptos basicos\006. break 2.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\003-Uso de estructuras de control\estructuras de salto\conceptos basicos\007. break outer.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\003-Uso de estructuras de control\estructuras de salto\conceptos basicos\008. let.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\003-Uso de estructuras de control\estructuras de salto\conceptos basicos\009. let en estructuras.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\003-Uso de estructuras de control\estructuras de salto\Ejercicio\ejercicio basquet funcion.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\003-Uso de estructuras de control\estructuras de salto\Ejercicio\ejercicio basquet.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\003-Uso de estructuras de control\estructuras de salto\Ejercicio\Ejercicio Ram.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\003-Uso de estructuras de control\Estructuras de seleccion\contenidos basicos\001-asigno na una variable.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\003-Uso de estructuras de control\Estructuras de seleccion\contenidos basicos\001-entradas.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\003-Uso de estructuras de control\Estructuras de seleccion\contenidos basicos\003-varios.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\003-Uso de estructuras de control\Estructuras de seleccion\contenidos basicos\004-entradas avanzadas.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\003-Uso de estructuras de control\Estructuras de seleccion\contenidos basicos\005-seleccion.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\003-Uso de estructuras de control\Estructuras de seleccion\contenidos basicos\006-else.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\003-Uso de estructuras de control\Estructuras de seleccion\contenidos basicos\007-elseif.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\003-Uso de estructuras de control\Estructuras de seleccion\contenidos basicos\009-estrucutura switch.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\003-Uso de estructuras de control\Estructuras de seleccion\contenidos basicos\010-for.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\003-Uso de estructuras de control\Estructuras de seleccion\contenidos basicos\011-for.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\003-Uso de estructuras de control\Estructuras de seleccion\contenidos basicos\012-foranidado.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\003-Uso de estructuras de control\Estructuras de seleccion\Ejercicios\010.simulacro de actividad de subunidad.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\003-Uso de estructuras de control\Estructuras de seleccion\Ejercicios\Actividad Notas musicales.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\004-Desarrollo de clases\001-Concepto de clase\001-Contenidos básicos\003.clase clientes copy.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\004-Desarrollo de clases\001-Concepto de clase\001-Contenidos básicos\004.preguntamos al usuario.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\004-Desarrollo de clases\001-Concepto de clase\001-Contenidos básicos\006-ejercicioclase.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\004-Desarrollo de clases\003-Creación de propiedades\101-ejercicios\003-las propiedades pueden ser  arrays.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\004-Desarrollo de clases\003-Creación de propiedades\101-ejercicios\004-escribir las propiedades de una clase.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\004-Desarrollo de clases\003-Creación de propiedades\101-ejercicios\005-tenemos propiedad.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\004-Desarrollo de clases\003-Creación de propiedades\101-ejercicios\006-los telefonos deben ser una lista.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\004-Desarrollo de clases\003-Creación de propiedades\101-ejercicios\ejercicio gestion productos\007- aplicacion de productos.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\004-Desarrollo de clases\003-Creación de propiedades\101-ejercicios\ejercicio gestion productos\008-creacion de variables globales.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\004-Desarrollo de clases\004-Creación de métodos\001-repaso de los metodos.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\004-Desarrollo de clases\004-Creación de métodos\002-metodo set.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\004-Desarrollo de clases\004-Creación de métodos\003-metodo getter.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\004-Desarrollo de clases\004-Creación de métodos\004-defino propiedad privada.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\004-Desarrollo de clases\004-Creación de métodos\005-clase cuenta bancaria.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\004-Desarrollo de clases\004-Creación de métodos\006-convertir en privadas.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\004-Desarrollo de clases\004-Creación de métodos\007-get saldo
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\004-Desarrollo de clases\004-Creación de métodos\008-validacion.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\004-Desarrollo de clases\004-Creación de métodos\009-variable global.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\004-Desarrollo de clases\004-Creación de métodos\010-ejemplo practico.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\004-Desarrollo de clases\004-Creación de métodos\011-creo getters y setters.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\004-Desarrollo de clases\004-Creación de métodos\013-creo una lista de clientes.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\004-Desarrollo de clases\004-Creación de métodos\014-getters.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\004-Desarrollo de clases\006-Utilización de clases y objetos\001-Contenidos básicos\001-mi propia clase.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\004-Desarrollo de clases\006-Utilización de clases y objetos\001-Contenidos básicos\002-redondeos.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\004-Desarrollo de clases\006-Utilización de clases y objetos\001-Contenidos básicos\003- ahora uso la libreria estandar.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\004-Desarrollo de clases\007-Utilización de clases heredadas\001-gatos y perros.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\004-Desarrollo de clases\007-Utilización de clases heredadas\002_clase madre animal.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\004-Desarrollo de clases\007-Utilización de clases heredadas\003-clase roca.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\004-Desarrollo de clases\007-Utilización de clases heredadas\004-herencia multiple.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\005-Lectura y escritura de información\001-Flujos. Tipos bytes y caracteres. Clases relacionadas\001-escribir texto a archivos.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\005-Lectura y escritura de información\001-Flujos. Tipos bytes y caracteres. Clases relacionadas\002-ahora leemos.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\005-Lectura y escritura de información\001-Flujos. Tipos bytes y caracteres. Clases relacionadas\003-creador agenda.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\005-Lectura y escritura de información\001-Flujos. Tipos bytes y caracteres. Clases relacionadas\agenda.txt
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\005-Lectura y escritura de información\001-Flujos. Tipos bytes y caracteres. Clases relacionadas\clientes.txt
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\005-Lectura y escritura de información\002-Ficheros de datos. Registros\ejercicios\001-leer archivo.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\005-Lectura y escritura de información\002-Ficheros de datos. Registros\ejercicios\002-leer json.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\005-Lectura y escritura de información\002-Ficheros de datos. Registros\ejercicios\003-leemos linea a linea.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\005-Lectura y escritura de información\002-Ficheros de datos. Registros\ejercicios\004-ahora accedemos a las parejas.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\005-Lectura y escritura de información\002-Ficheros de datos. Registros\ejercicios\005-una pequeña decoracion.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\005-Lectura y escritura de información\002-Ficheros de datos. Registros\ejercicios\006-blog.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\005-Lectura y escritura de información\002-Ficheros de datos. Registros\ejercicios\007-estilos minimos.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\005-Lectura y escritura de información\002-Ficheros de datos. Registros\ejercicios\008-instalar servidor.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\005-Lectura y escritura de información\002-Ficheros de datos. Registros\ejercicios\009-arranco flash.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\005-Lectura y escritura de información\002-Ficheros de datos. Registros\ejercicios\010-frankestein.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\005-Lectura y escritura de información\004-Utilizacion de los sistemas de ficheros\001-listar contenido de carpeta.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\005-Lectura y escritura de información\004-Utilizacion de los sistemas de ficheros\002-atributos.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\005-Lectura y escritura de información\004-Utilizacion de los sistemas de ficheros\003-formateo el resultado.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\005-Lectura y escritura de información\004-Utilizacion de los sistemas de ficheros\004-suma del tamaño.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\005-Lectura y escritura de información\004-Utilizacion de los sistemas de ficheros\005-recorrer.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\005-Lectura y escritura de información\004-Utilizacion de los sistemas de ficheros\006-tamaño recursivo.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\005-Lectura y escritura de información\004-Utilizacion de los sistemas de ficheros\007-Condicion.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\005-Lectura y escritura de información\004-Utilizacion de los sistemas de ficheros\008-escribir en archivo el contenido de la carpeta.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\006-Aplicación de las estructuras de almacenamiento\001-Estructuras estáticas y dinámicas\001-Contenidos básicos\Contenidos básicos.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\006-Aplicación de las estructuras de almacenamiento\002-Creación de matrices (arrays)\001-Contenidos básicos\Contenidos básicos.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\006-Aplicación de las estructuras de almacenamiento\003-Matrices (arrays) multidimensionales\001-Contenidos básicos\Contenidos básicos.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\006-Aplicación de las estructuras de almacenamiento\004-Genericidad\001-Contenidos básicos\Contenidos básicos.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\006-Aplicación de las estructuras de almacenamiento\005-Cadenas de caracteres. Expresiones regulares\001-Contenidos básicos\Contenidos básicos.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\006-Aplicación de las estructuras de almacenamiento\006-Colecciones Listas, Conjuntos y Diccionarios\001-Contenidos básicos\Contenidos básicos.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\006-Aplicación de las estructuras de almacenamiento\007-Operaciones agregadas filtrado, reducción y recolección\001-Contenidos básicos\Contenidos básicos.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\007-Utilización avanzada de clases\001-Composición de clases\001-Contenidos básicos\Contenidos básicos.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\007-Utilización avanzada de clases\002-Herencia y polimorfismo\001-Contenidos básicos\Contenidos básicos.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\007-Utilización avanzada de clases\003-Jerarquía de clases Superclases y subclases\001-Contenidos básicos\Contenidos básicos.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\007-Utilización avanzada de clases\004-Clases y métodos abstractos y finales\001-Contenidos básicos\Contenidos básicos.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\007-Utilización avanzada de clases\005-Interfaces\001-Contenidos básicos\Contenidos básicos.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\007-Utilización avanzada de clases\006-Sobreescritura de métodos\001-Contenidos básicos\Contenidos básicos.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\007-Utilización avanzada de clases\007-Constructores y herencia\001-Contenidos básicos\Contenidos básicos.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\008-Mantenimiento de la persistencia de los objetos\001-Bases de datos orientadas a objetos\001-Contenidos básicos\Contenidos básicos.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\008-Mantenimiento de la persistencia de los objetos\002-Características de las bases de datos orientadas a objetos\001-Contenidos básicos\Contenidos básicos.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\008-Mantenimiento de la persistencia de los objetos\003-Instalación del gestor de bases de datos\001-Contenidos básicos\Contenidos básicos.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\008-Mantenimiento de la persistencia de los objetos\004-Creación de bases de datos\001-Contenidos básicos\Contenidos básicos.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\008-Mantenimiento de la persistencia de los objetos\005-Mecanismos de consulta\001-Contenidos básicos\Contenidos básicos.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\008-Mantenimiento de la persistencia de los objetos\006-El lenguaje de consultas sintaxis, expresiones, operadores\001-Contenidos básicos\Contenidos básicos.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\008-Mantenimiento de la persistencia de los objetos\007-Recuperación, modificación y borrado de información\001-Contenidos básicos\Contenidos básicos.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\008-Mantenimiento de la persistencia de los objetos\008-Tipos de datos objeto; atributos y métodos\001-Contenidos básicos\Contenidos básicos.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\008-Mantenimiento de la persistencia de los objetos\009-Tipos de datos colección\001-Contenidos básicos\Contenidos básicos.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\009-Gestión de bases de datos\001-Acceso a bases de datos. Estándares. Características\001-Contenidos básicos\Contenidos básicos.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\009-Gestión de bases de datos\002-Establecimiento de conexiones\001-Contenidos básicos\Contenidos básicos.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\009-Gestión de bases de datos\003-Almacenamiento, recuperación, actualización y eliminación de información en bases de datos\001-Contenidos básicos\Contenidos básicos.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\EJERCICIOS\Ejercicio musica.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\EJERCICIOS\operaciones de incremento.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\EJERCICIOS\operadores de incremento.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\EJERCICIOS\002-Utilizacion de objetos\ejercicio0.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\EJERCICIOS\002-Utilizacion de objetos\ejercicio0.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\EJERCICIOS\002-Utilizacion de objetos\ejercicio1.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\EJERCICIOS\002-Utilizacion de objetos\ejercicio1.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\EJERCICIOS\002-Utilizacion de objetos\ejercicio2.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\EJERCICIOS\002-Utilizacion de objetos\ejercicio2.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\EJERCICIOS\002-Utilizacion de objetos\ejercicio3.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\EJERCICIOS\002-Utilizacion de objetos\ejercicio3.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\EJERCICIOS\002-Utilizacion de objetos\ejercicio4.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\EJERCICIOS\002-Utilizacion de objetos\ejercicio4.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\EXAMENES\Unidad 1\001-actividad.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\EXAMENES\Unidad 1\registro_producto.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\EXAMENES\Unidad 1\registro_produto.md
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\SIMULACROS\tema1.html
+C:\Users\DanielCalvéPardo\Documents\GitHub\programaciondaw\SIMULACROS\tema1.py
+C:\Users\DanielCalvéPardo\Documents\GitHub\proyectointermodular\blog.json
+C:\Users\DanielCalvéPardo\Documents\GitHub\proyectointermodular\.git\COMMIT_EDITMSG
+C:\Users\DanielCalvéPardo\Documents\GitHub\proyectointermodular\.git\config
+C:\Users\DanielCalvéPardo\Documents\GitHub\proyectointermodular\.git\description
+C:\Users\DanielCalvéPardo\Documents\GitHub\proyectointermodular\.git\FETCH_HEAD
+C:\Users\DanielCalvéPardo\Documents\GitHub\proyectointermodular\.git\HEAD
+C:\Users\DanielCalvéPardo\Documents\GitHub\proyectointermodular\.git\index
+C:\Users\DanielCalvéPardo\Documents\GitHub\proyectointermodular\.git\hooks\applypatch-msg.sample
+C:\Users\DanielCalvéPardo\Documents\GitHub\proyectointermodular\.git\hooks\commit-msg.sample
+C:\Users\DanielCalvéPardo\Documents\GitHub\proyectointermodular\.git\hooks\fsmonitor-watchman.sample
+C:\Users\DanielCalvéPardo\Documents\GitHub\proyectointermodular\.git\hooks\post-update.sample
+C:\Users\DanielCalvéPardo\Documents\GitHub\proyectointermodular\.git\hooks\pre-applypatch.sample
+C:\Users\DanielCalvéPardo\Documents\GitHub\proyectointermodular\.git\hooks\pre-commit.sample
+C:\Users\DanielCalvéPardo\Documents\GitHub\proyectointermodular\.git\hooks\pre-merge-commit.sample
+C:\Users\DanielCalvéPardo\Documents\GitHub\proyectointermodular\.git\hooks\pre-push.sample
+C:\Users\DanielCalvéPardo\Documents\GitHub\proyectointermodular\.git\hooks\pre-rebase.sample
+C:\Users\DanielCalvéPardo\Documents\GitHub\proyectointermodular\.git\hooks\pre-receive.sample
+C:\Users\DanielCalvéPardo\Documents\GitHub\proyectointermodular\.git\hooks\prepare-commit-msg.sample
+C:\Users\DanielCalvéPardo\Documents\GitHub\proyectointermodular\.git\hooks\push-to-checkout.sample
+C:\Users\DanielCalvéPardo\Documents\GitHub\proyectointermodular\.git\hooks\sendemail-validate.sample
+C:\Users\DanielCalvéPardo\Documents\GitHub\proyectointermodular\.git\hooks\update.sample
+C:\Users\DanielCalvéPardo\Documents\GitHub\proyectointermodular\.git\info\exclude
+C:\Users\DanielCalvéPardo\Documents\GitHub\proyectointermodular\.git\logs\HEAD
+C:\Users\DanielCalvéPardo\Documents\GitHub\proyectointermodular\.git\logs\refs\heads\main
+C:\Users\DanielCalvéPardo\Documents\GitHub\proyectointermodular\.git\logs\refs\remotes\origin\HEAD
+C:\Users\DanielCalvéPardo\Documents\GitHub\proyectointermodular\.git\logs\refs\remotes\origin\main
+C:\Users\DanielCalvéPardo\Documents\GitHub\proyectointermodular\.git\objects\1b\bb6929633af774e1e9b588035d79069bd03b48
+C:\Users\DanielCalvéPardo\Documents\GitHub\proyectointermodular\.git\objects\36\6f28234df11024a7ad056323cb72708a5c57e8
+C:\Users\DanielCalvéPardo\Documents\GitHub\proyectointermodular\.git\objects\47\a5209da59b69b25a446f5052f81e9aef681e98
+C:\Users\DanielCalvéPardo\Documents\GitHub\proyectointermodular\.git\objects\a2\29e8b5f05a164accd42ee4fc974c9148cf11ba
+C:\Users\DanielCalvéPardo\Documents\GitHub\proyectointermodular\.git\objects\a8\db509ed86f6b827ad0059d62669758e98b7fcc
+C:\Users\DanielCalvéPardo\Documents\GitHub\proyectointermodular\.git\objects\d5\3d6fd4c951fa61b414c252f833da3d546f5fcc
+C:\Users\DanielCalvéPardo\Documents\GitHub\proyectointermodular\.git\objects\ed\e7194418d36e6c4f02a761b71ebf524c05d629
+C:\Users\DanielCalvéPardo\Documents\GitHub\proyectointermodular\.git\objects\ef\709a03b2870695cf82a025fe8f8a0c53e97425
+C:\Users\DanielCalvéPardo\Documents\GitHub\proyectointermodular\.git\refs\heads\main
+C:\Users\DanielCalvéPardo\Documents\GitHub\proyectointermodular\.git\refs\remotes\origin\HEAD
+C:\Users\DanielCalvéPardo\Documents\GitHub\proyectointermodular\.git\refs\remotes\origin\main
+C:\Users\DanielCalvéPardo\Documents\GitHub\proyectointermodular\102-Contenido dinamico\servidor.py
