@@ -1,0 +1,31 @@
+<script>
+    // Crear el objeto peleaMMA con luchadores y fecha
+const peleaMMA = {
+    luchador1: {
+        nombre: "Jon Jones",
+        peso: 93,
+        categoria: "heavyweight"
+    },
+    luchador2: {
+        nombre: "Islam Makhachev",
+        peso: 70.8,
+        categoria: "welterweight"
+    },
+    fecha: new Date()
+};
+
+// Mostrar la información de la pelea
+document.write("Información de la pelea:<br><br>");
+document.write(`Luchador 1: ${peleaMMA.luchador1.nombre}<br>`);
+document.write(`Peso: ${peleaMMA.luchador1.peso} kg<br>`);
+document.write(`Categoría: ${peleaMMA.luchador1.categoria}<br><br>`);
+
+
+document.write(`Luchador 2: ${peleaMMA.luchador2.nombre}<br>`);
+document.write(`Peso: ${peleaMMA.luchador2.peso} kg<br>`);
+document.write(`Categoría: ${peleaMMA.luchador2.categoria}<br><br>`);
+
+
+document.write(`Fecha de la pelea: ${peleaMMA.fecha.toLocaleString()}<br>`);
+
+</script>
