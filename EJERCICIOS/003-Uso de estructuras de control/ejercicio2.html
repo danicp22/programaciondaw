@@ -1,0 +1,30 @@
+<script>
+
+/*
+Programa generador de fechas
+v0.1 Daniel Calve Pardo 2025
+Este programa genera gracias a bucles unas fechas
+*/
+
+
+// Declaración de variables
+var anio;
+var mes;
+var dia;
+
+// Bucle para los años
+for (anio = 1978; anio <= 2025; anio++) {
+
+    // Bucle para los meses
+    for (mes = 1; mes <= 12; mes++) {
+
+        // Bucle para los días (del 1 al 30)
+        for (dia = 1; dia <= 30; dia++) {
+
+            // Impresión de la fecha usando comas
+            document.write("Hoy es el día ", dia, " del mes ", mes, " del año ", anio, "<br>");
+        }
+    }
+}
+
+</script>
