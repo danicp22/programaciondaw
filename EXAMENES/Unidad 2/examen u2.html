@@ -1,0 +1,58 @@
+<script>
+/*
+Programa calculador de filas
+v0.1 Daniel Calve Pardo 2025
+Este programa calcula cuantas filas necesitas para sentar a los asistentes de un evento, redondeando y mostrando un informa fecha/hora del evento
+*/
+
+// Pedir datos al usuario
+var asistentes = parseInt(prompt("Introduce el numero de asistentes: "));
+if (asistentes <= 0) {
+    alert("Solo se pueden poner números enteros mayores que 0");
+}
+
+var asientos_por_fila = parseInt(prompt("Introduce el numero de asientos por fila: "));
+if (asientos_por_fila <= 0) {
+    alert("Solo se pueden poner números enteros mayores que 0");
+}
+
+var fecha_evento = prompt("Introduce la fecha del evento en formato AAAA-MM-DD HH:MM");
+
+
+// Convertimos la cadena a un objeto Date
+var fecha = new Date(fecha_evento);
+
+
+// Calcular numero de filas necesarias 
+var filas = Math.ceil(asistentes / asientos_por_fila);
+
+
+// Mostrar informe de fecha
+var año = fecha.getFullYear();
+var mes = fecha.getMonth() + 1;  // Enero = 0
+var día = fecha.getDate();
+var horas = fecha.getHours();
+var minutos = fecha.getMinutes();
+
+
+// Pedimos el grado de satisfaccion
+var satisfaccion1 = prompt("Introduce tu primer nivel de satisfaccion: ");
+var satisfaccion2 = prompt("Introduce tu segundo nivel de satisfaccion: ");
+var satisfaccion3 = prompt("Introduce tu tercer nivel de satisfaccion: ");
+
+var media = (satisfaccion1*1 + satisfaccion2*1+ satisfaccion3*1)/3;
+var codigo_sesion = Math.round(Math.PI * 100);  // Ejemplo usando PI
+
+
+// Mostramos en pantalla
+document.write("=== Informe del Evento ===<br>");
+document.write("Número de asistentes: ", asistentes, "<br>");
+document.write("Asientos por fila: ", asientos_por_fila, "<br>");
+document.write("Filas necesarias: ", filas, "<br>");
+document.write("Fecha del evento: ");
+document.write("Año: ", año, " Mes: ", mes, " Día: ", día, "<br>");
+document.write("Hora: ", horas, " Minutos: ", minutos,  "<br>");
+document.write("Número de control (media satisfacción ): ", media, "<br>");
+document.write("Código de sesión: ", codigo_sesion, "<br>");
+
+</script>

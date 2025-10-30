@@ -1,0 +1,29 @@
+# Actividad (30’): “Aforo Express — entradas, filas y horario”
+
+Crea un mini-programa que calcule cuántas **filas** necesitas para sentar a los asistentes de un evento, redondeando **al alza**, y muestre un **informe de fecha/hora** del evento.
+
+## Objetivos de aprendizaje
+
+* Instanciar y usar **Date** / **datetime.date** y acceder a sus **propiedades y métodos** (`getFullYear`, `getMonth`, `weekday`, etc.). 
+* Usar **métodos “estáticos”** de librerías estándar: `Math.ceil`, `Math.round`, `Math.PI`, y `math.ceil`. 
+* Seguir el flujo **entrada → cálculo → salida** con validaciones básicas. 
+* Ajustarse a la **nota importante**: usar objetos preexistentes, no definir clases nuevas. 
+
+## Enunciado
+
+Pide al usuario:
+
+1. `asistentes` (entero > 0)
+2. `asientos_por_fila` (entero > 0)
+3. `fecha_evento` (fecha/hora; ver formato por lenguaje)
+
+Calcula:
+
+* `filas = ceil(asistentes / asientos_por_fila)` (redondeo al **alza**). 
+* Muestra un **informe de fecha**: año, mes, día y despiece horario (horas, minutos, segundos) con los métodos del objeto fecha. 
+* Además, muestra un **número de control**: redondea la media de 3 valores de satisfacción (por ejemplo 7.8, 6.5, 9.2) con `Math.round`/`round` y referencia `PI` para un simple “código de sesión” (p. ej., `Math.round(PI*100)`). 
+
+### Reglas
+
+* Si hay entradas no numéricas o fuera de rango, avisa y **no continúes** hasta que sean válidas.
+* No crear clases propias (ajustado a la subunidad). 
