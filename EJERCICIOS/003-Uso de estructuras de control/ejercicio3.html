@@ -1,0 +1,42 @@
+<script>
+/*
+Programa simulador
+v0.1 Daniel Calve Pardo 2025
+Este programa simula una pelea de MMA
+*/
+
+function calculaPuntos(jugador1, jugador2) {
+  var puntosJugador1 = 0;
+  var puntosJugador2 = 0;
+
+  for (let ronda = 1; ronda <= 5; ronda++) {
+    var ataqueJugador1 = Math.random() * 10;
+    var defensaJugador2 = Math.random() * 10;
+
+    if (ataqueJugador1 > defensaJugador2) {
+      puntosJugador1 += 2;
+    } else if (defensaJugador2 > ataqueJugador1) {
+      puntosJugador2 += 2;
+    }
+  }
+
+  console.log("Puntos " + jugador1 + ": " + puntosJugador1);
+  console.log("Puntos " + jugador2 + ": " + puntosJugador2);
+
+  if (puntosJugador1 > puntosJugador2) {
+    console.log(jugador1 + " gana el combate!");
+  } else if (puntosJugador2 > puntosJugador1) {
+    console.log(jugador2 + " gana el combate!");
+  } else {
+    console.log("Empate!");
+  }
+}
+calculaPuntos("Jugador A", "Jugador B");
+calculaPuntos("Jugador A", "Jugador B");
+calculaPuntos("Jugador A", "Jugador B");
+calculaPuntos("Jugador A", "Jugador B");
+calculaPuntos("Jugador A", "Jugador B");
+calculaPuntos("Jugador A", "Jugador B");
+
+
+</script>
