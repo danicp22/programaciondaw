@@ -7,7 +7,7 @@ class Cliente():
     self.email = email
 
 print("###### Gestión de clientes v0.1 ######")
-print("####### Jose Vicente Carratala  ######")
+print("####### Daniel Calve Pardo  ######")
 
 clientes = []
 
