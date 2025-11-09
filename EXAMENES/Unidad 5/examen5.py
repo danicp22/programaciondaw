@@ -1,45 +1,61 @@
 import pickle
 
-# Creamos la clase y as
 class Cliente():
-  def __init__(self,nombre,apellidos,email):
-    self.nombre = nombre
-    self.apellidos = apellidos
-    self.email = email
+    def __init__(self, nombre, apellidos, email):
+        self.nombre = nombre
+        self.apellidos = apellidos
+        self.email = email
+
+print("### Gestión de clientes v0.1 ###")
+print("### Daniel Calve Pardo ###")
 
 clientes = []
 
-# Usamos pickle
-try:  
-  archivo = open("clientes.bin",'rb')
-  clientes = pickle.load(archivo)
-  archivo.close()
+try:
+    archivo = open("clientes.bim", "rb")
+    clientes = pickle.load(archivo)
+    archivo.close()
+    print("Datos cargados correctamente.")
 except:
-  print("No existe archivo de datos")
+    print("No existe el archivo de datos, se creará uno nuevo.")
+
 
 while True:
-    archivo = open("clientes.bin",'wb')
-    pickle.dump(clientes,archivo)
-    archivo.close()
-    
-    print("Escoge una opción:")
-    print("1.-Insertar un cliente")
-    print("2.-Listar clientes")
-    print("3.-Salir")
-    opcion = int(input("Escoge una opcion: "))
-    
+    print("\nEscoge una opción: ")
+    print("1.- Insertar un cliente")
+    print("2.- Listar clientes")
+    print("3.- Salir del menú")
+
+    opcion = int(input("Escoge una opción: "))
+
     if opcion == 1:
         nombre = input("Introduce el nombre: ")
         apellidos = input("Introduce los apellidos: ")
         email = input("Introduce el email: ")
-        clientes.append(Cliente(nombre,apellidos,email))
-        print("Cliente guardado correctamente")
+
+        clientes.append(Cliente(nombre, apellidos, email))
+        print("Cliente añadido correctamente.")
+
     elif opcion == 2:
-        for cliente in clientes:
-            print(cliente.nombre,cliente.apellidos,cliente.email)
+        # Mostramos todos los clientes
+        if len(clientes) == 0:
+            print("No hay clientes registrados.")
+        else:
+            identificador = 0
+            for cliente in clientes:
+                print("Cliente ID:", identificador)
+                print("Nombre:", cliente.nombre)
+                print("Apellidos:", cliente.apellidos)
+                print("Email:", cliente.email)
+                identificador += 1
+
     elif opcion == 3:
-        print("Saliendo del programa...")
+        # Guardamos la lista de clientes antes de salir
+        archivo = open("clientes.bin", "wb")
+        pickle.dump(clientes, archivo)        # Guardamos la lista completa
+        archivo.close()
+        print("Datos guardados correctamente. Adios :)")
         break
+
     else:
-        print("Opcion no valida. Intente de nuevo")
-        
+        print("Opción no válida, intenta de nuevo.")
