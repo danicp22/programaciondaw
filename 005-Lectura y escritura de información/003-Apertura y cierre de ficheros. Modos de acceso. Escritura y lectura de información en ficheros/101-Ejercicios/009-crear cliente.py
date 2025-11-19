@@ -5,7 +5,7 @@ class Cliente():
 
 clientes = []
 
-clientes.append(Cliente("Jose Vicente","info@jocarsa.com"))
+clientes.append(Cliente("Daniel","dani@dani.com"))
 clientes.append(Cliente("Juan","juan@jocarsa.com"))
 
 print(clientes)

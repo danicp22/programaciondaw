@@ -2,7 +2,7 @@
 import pickle
 
 archivo = open("datos.bin","wb")
-cadena = "Jose Vicente"
+cadena = "Dani"
 
 pickle.dump(cadena,archivo)
 
