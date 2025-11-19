@@ -1,4 +1,4 @@
-palets = [
+palets = [ # estanteria de palets
     [  # linea de palets
         [ # x
             [  # y
