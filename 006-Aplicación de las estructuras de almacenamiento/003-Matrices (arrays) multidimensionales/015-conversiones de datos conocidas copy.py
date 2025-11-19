@@ -1,4 +1,4 @@
-edad = "47"
+edad = "18"
 
 edad_en_numero = int(edad)
 
