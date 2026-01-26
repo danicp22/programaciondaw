@@ -2,7 +2,7 @@
 <html>
 	<head>
   	<style>
-    	html,body{padding:0px;margin:0px;width:100%;height:100%;}
+        html,body{padding:0px;margin:0px;width:100%;height:100%;}
       body{display:flex;justify-content:center;align-items:center;}
       main{width:500px;height:500px;padding:20px;border:1px solid grey;
       border-radius:5px;display:flex;flex-direction:column;justify-content:space-between;}
